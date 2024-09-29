@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://firateas.github.io/sitemap.html.gz
+Sitemap: https://firateas.github.io/app/sitemap.html.gz
+Sitemap: https://firateas.github.io/assets/sitemap.html.gz
+Sitemap: https://firateas.github.io/css/sitemap.html.gz
+Sitemap: https://firateas.github.io/data/sitemap.html.gz
+Sitemap: https://firateas.github.io/includes/sitemap.html.gz
+Sitemap: https://firateas.github.io/item/sitemap.html.gz
+Sitemap: https://firateas.github.io/src/sitemap.html.gz
